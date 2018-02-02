@@ -1,4 +1,4 @@
-Project-Pixel-Art-Maker
+<h1>Project-Pixel-Art-Maker</h1>
 
 A single page app in JavaScript where the user can create artistic designs
 
